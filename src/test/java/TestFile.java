@@ -4,7 +4,7 @@ import org.junit.Test;
 public class TestFile {
 
     @Test
-    public void sholud() {
+    public void should() {
         Assert.assertTrue(true);
     }
 }
